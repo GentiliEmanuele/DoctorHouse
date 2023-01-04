@@ -1,0 +1,6 @@
+• As a Doctor I want to be able to delete an appointment, so I can give more priority to an urgent
+visit.
+• As a Patient I want to reserve a visit, so I can know the time it’s my turn and I can reduce the time 
+waste.
+• As an Assistant I want to insert a visit, so I can book the visit for the patient without making him 
+interact with the application. (e.g., elderly patients)

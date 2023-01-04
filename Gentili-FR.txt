@@ -1,0 +1,3 @@
+The system shall communicate to a patient if a doctor canceled their appointment or sent a request to reschedule it.
+The system shall communicate to a doctor if a patient canceled their appointment or sent a request to reschedule it.
+The system shall provide to the doctor a form in the appointment page to cancel and, specify a reason, or to send a request to rearrange an appointment to a patient.
