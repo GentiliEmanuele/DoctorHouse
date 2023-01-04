@@ -1,0 +1,9 @@
+As a patient, I want to send a request for a prescription to my doctor and receive it on the app
+without going there physically, so I can save time.
+
+As a doctor, I want to specify which time slots of the day are eligible to be booked for a visit by a
+patient, so that I can reserve some time of the day for other work related matters.
+
+As an assistant, I want to cancel a patient’s appointment, so I can notify the patient of a change in
+the doctor’s schedule.
+

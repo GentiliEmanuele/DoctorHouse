@@ -1,0 +1,6 @@
+The system shall show to the patient their next visits organized by day, week, and month.
+
+The system shall show to the patient which time slots of the doctor’s schedule can be booked.
+
+The system shall provide a search bar to find doctors who are specialized in a specific field and are located near them.
+
